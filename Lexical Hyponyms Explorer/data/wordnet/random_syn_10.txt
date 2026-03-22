@@ -1,0 +1,10 @@
+5783,European_dogtooth Erythronium_dens-canis,dummy
+35992,dog's-tooth_violet dogtooth_violet dogtooth,dummy
+36289,downstroke,dummy
+39501,fawn_lily Erythronium_californicum,dummy
+40607,flick,dummy
+43343,snow_lily glacier_lily Erythronium_grandiflorum,dummy
+73801,stroke,dummy
+78590,underscore underline,dummy
+78880,upstroke,dummy
+80883,blonde_lilian white_dog's-tooth_violet white_dogtooth_violet Erythronium_albidum,dummy

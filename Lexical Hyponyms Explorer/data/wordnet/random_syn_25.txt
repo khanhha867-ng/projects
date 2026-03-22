@@ -1,0 +1,30 @@
+19794,gas_embolism air_embolism aeroembolism,dummy
+19903,alabaster onyx_marble oriental_alabaster Mexican_onyx,dummy
+19922,white_feldspar albite,dummy
+20870,anorthite,dummy
+26437,bunny bunny_girl,dummy
+26545,waiter's_assistant busboy,dummy
+26914,calcite,dummy
+27379,captain maitre_d'hotel maitre_d' headwaiter,dummy
+27593,carhop,dummy
+28458,chalk,dummy
+32137,coronary_occlusion,dummy
+32139,coronary coronary_thrombosis,dummy
+32428,counterperson counterwoman counterman,dummy
+35284,dining-room_attendant restaurant_attendant,dummy
+37627,embolism,dummy
+39433,fat_embolism,dummy
+39585,felspar feldspar,dummy
+50471,laryngospasm,dummy
+55176,moonstone,dummy
+57451,occlusion,dummy
+58251,orthoclase,dummy
+61174,oligoclase plagioclase,dummy
+63745,pulmonary_embolism,dummy
+71364,soda_jerk soda_jerker,dummy
+71582,sommelier wine_waiter wine_steward,dummy
+71899,spar,dummy
+76414,thromboembolism,dummy
+76420,thrombosis,dummy
+79992,server waiter,dummy
+79995,waitress,dummy
